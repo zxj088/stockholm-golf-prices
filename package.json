@@ -1,0 +1,14 @@
+{
+  "name": "stockholm-golf-price-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve-static.mjs",
+    "fetch:mingolf": "node scripts/fetch-mingolf-prices.mjs",
+    "check": "node --check app.js && node --check scripts/fetch-mingolf-prices.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.61.1"
+  }
+}

@@ -1,0 +1,100 @@
+name: Scrape and deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 19 * * *"
+    - cron: "0 20 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check local schedule time
+        id: schedule_gate
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" != "schedule" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          local_hour="$(TZ=Europe/Stockholm date +%H)"
+          if [[ "$local_hour" == "21" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping because Europe/Stockholm hour is $local_hour, not 21."
+          fi
+
+      - name: Checkout
+        if: steps.schedule_gate.outputs.run == 'true'
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        if: steps.schedule_gate.outputs.run == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        if: steps.schedule_gate.outputs.run == 'true'
+        run: npm install
+
+      - name: Install browser
+        if: steps.schedule_gate.outputs.run == 'true'
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape Min Golf
+        if: steps.schedule_gate.outputs.run == 'true'
+        env:
+          MINGOLF_USERNAME: ${{ secrets.MINGOLF_USERNAME }}
+          MINGOLF_PASSWORD: ${{ secrets.MINGOLF_PASSWORD }}
+          MINGOLF_DAYS: "60"
+          MINGOLF_HEADLESS: "true"
+          MINGOLF_HIDDEN_PRICE_START_HOUR: "17"
+          MINGOLF_HIDDEN_PRICE_MAX_SLOTS_PER_DAY: "1"
+        run: npm run fetch:mingolf
+
+      - name: Check JavaScript
+        if: steps.schedule_gate.outputs.run == 'true'
+        run: npm run check
+
+      - name: Build static site artifact
+        if: steps.schedule_gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          rm -rf dist
+          mkdir -p dist/assets dist/data
+          cp index.html app.js styles.css dist/
+          cp -r assets/. dist/assets/
+          cp data/courses.json data/prices.csv dist/data/
+          touch dist/.nojekyll
+
+      - name: Configure GitHub Pages
+        if: steps.schedule_gate.outputs.run == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: steps.schedule_gate.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        if: steps.schedule_gate.outputs.run == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

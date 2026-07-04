@@ -1,0 +1,8 @@
+.env.local
+.auth/
+tmp/
+data/mingolf-discovery.json
+data/mingolf-booking-assets.json
+*.log
+node_modules/
+dist/

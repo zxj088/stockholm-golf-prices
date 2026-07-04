@@ -1,0 +1,926 @@
+course_id,course_name,date,price,currency,tee_time,holes,source_url,note
+arninge,18-hålsbanan,2026-07-04,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-05,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-06,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-07,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-09,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-10,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-11,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-12,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-13,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-14,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-15,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-16,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-17,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-18,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-19,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-20,795,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-21,795,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-22,795,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-23,795,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-24,995,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-25,995,SEK,17:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-26,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-27,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-28,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-29,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-30,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-07-31,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-01,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-02,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-03,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-05,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-06,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-07,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-08,995,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-09,995,SEK,16:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-10,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-11,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-12,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-13,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-14,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-15,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-16,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-17,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-18,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-19,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-20,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-21,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-22,995,SEK,17:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-23,995,SEK,17:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-24,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-25,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-26,795,SEK,10:42,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-27,795,SEK,15:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-28,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-29,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-30,995,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-08-31,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+arninge,18-hålsbanan,2026-09-01,795,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-04,545,SEK,17:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-05,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-06,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-07,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-08,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-09,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-10,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-11,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-12,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-13,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-14,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-15,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-16,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-17,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-18,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-19,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-20,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-21,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-22,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-23,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-24,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-25,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-26,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-27,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-28,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-29,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-30,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-07-31,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-01,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-02,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-03,495,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-04,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-05,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-06,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-07,495,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-08,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-09,545,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-10,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-11,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-12,395,SEK,18:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-13,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-14,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-15,445,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-17,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-18,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-19,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-20,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-21,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-22,445,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-23,445,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-24,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-25,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-26,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-27,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-28,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-29,445,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-30,445,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-08-31,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+botkyrka,18-hålsbanan ,2026-09-01,395,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-04,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-05,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-06,1300,SEK,12:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-07,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-08,1300,SEK,13:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-09,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-10,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-11,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-12,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-16,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-17,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-18,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-19,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-20,1300,SEK,12:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-21,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-22,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-23,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-24,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-25,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-26,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-27,1300,SEK,12:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-28,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-29,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-30,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-07-31,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-01,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-02,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-03,1300,SEK,12:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-04,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-05,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-06,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-07,1300,SEK,18:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-08,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-09,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-10,1300,SEK,12:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-11,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-12,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-13,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-14,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-15,1400,SEK,17:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-16,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-17,1300,SEK,12:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-18,1300,SEK,13:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-19,1300,SEK,12:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-20,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-21,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-22,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-23,1400,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-24,1300,SEK,12:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-25,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-26,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-27,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-28,1300,SEK,07:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-29,1400,SEK,17:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-30,1400,SEK,10:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-08-31,1300,SEK,12:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+djursholm,Djursholms 18-hålsbana,2026-09-01,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-04,1450,SEK,15:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-05,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-06,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-07,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-08,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-09,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-10,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-11,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-12,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-13,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-14,1450,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-15,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-16,1450,SEK,14:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-17,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-18,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-19,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-20,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-21,1450,SEK,14:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-22,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-23,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-24,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-25,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-26,1450,SEK,12:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-27,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-28,1450,SEK,18:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-29,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-30,1450,SEK,12:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-07-31,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-01,1450,SEK,14:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-02,1450,SEK,14:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-03,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-04,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-05,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-06,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-07,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-08,1450,SEK,07:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-09,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-10,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-11,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-12,1450,SEK,14:30,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-13,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-14,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-15,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-16,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-17,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-19,1450,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-20,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-21,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-22,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-23,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-24,1450,SEK,19:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-25,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-26,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-27,1450,SEK,17:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-28,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-29,1450,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-30,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-08-31,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+fagelbro,Fågelbro18-hålsbanan,2026-09-01,1450,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-04,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-05,1295,SEK,07:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-06,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-07,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-08,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-09,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-10,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-11,1295,SEK,07:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-12,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-13,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-14,1095,SEK,10:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-15,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-16,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-17,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-18,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-19,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-20,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-21,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-22,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-23,1095,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-24,1095,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-25,1295,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-26,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-27,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-28,1095,SEK,10:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-29,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-30,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-07-31,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-03,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-04,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-05,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-06,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-07,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-08,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-09,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-10,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-11,1095,SEK,10:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-12,1095,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-13,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-14,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-15,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-16,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-17,1095,SEK,15:30,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-18,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-19,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-20,1095,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-21,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-22,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-23,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-24,1095,SEK,15:30,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-25,1095,SEK,11:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-26,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-27,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-28,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-29,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-30,1295,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-08-31,1095,SEK,07:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+haninge,Slottsbanan,2026-09-01,1095,SEK,15:30,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-04,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-05,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-06,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-07,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-08,850,SEK,18:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-09,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-10,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-11,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-12,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,Gym 1 - cykelrummet,2026-07-13,,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Bookable in Min Golf; price not exposed until booking flow
+kungliga-drottningholm,18-hålsbanan,2026-07-14,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-15,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-16,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-17,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-18,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-19,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-20,850,SEK,18:17,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-21,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-22,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-23,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-24,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-25,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-26,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-27,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-28,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-29,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-30,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-07-31,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-01,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-02,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-03,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-04,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-05,850,SEK,19:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-06,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-07,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-08,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-09,850,SEK,18:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-10,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-11,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-12,850,SEK,18:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-13,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-14,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-15,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-16,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-17,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-18,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-19,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-20,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-21,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-22,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-23,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-24,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-25,850,SEK,18:08,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-26,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-27,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-28,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-29,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-30,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-08-31,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+kungliga-drottningholm,18-hålsbanan,2026-09-01,850,SEK,17:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+lidingo,18 Hålsbanan 2026,2026-07-04,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-05,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-06,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-07,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-08,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-09,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-10,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-11,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-12,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-13,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-14,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-15,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-16,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-17,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-18,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-19,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-20,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-21,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-22,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-23,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-24,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-25,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-26,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-27,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-28,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-29,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-30,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-07-31,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-01,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-02,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-03,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-04,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-05,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-06,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-07,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-08,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-09,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-10,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-11,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-12,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-13,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-14,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-15,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-16,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-17,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-18,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-19,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-20,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-21,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-22,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-23,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-24,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-25,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-26,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-27,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-28,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-29,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-30,1400,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-08-31,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+lidingo,18 Hålsbanan 2026,2026-09-01,1200,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-04,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-05,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-06,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-07,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-08,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-09,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-10,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-11,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-12,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-13,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-14,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-17,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-18,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-19,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-20,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-21,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-22,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-23,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-24,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-25,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-26,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-27,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-28,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-29,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-30,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-07-31,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-01,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-02,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-03,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-04,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-05,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-06,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-07,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-08,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-09,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-10,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-11,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-12,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-13,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-14,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-15,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-16,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-20,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-21,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-22,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-23,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-24,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-25,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-26,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-27,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-28,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-29,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-30,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-08-31,1600,SEK,21:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+osteraaker,East Course,2026-09-01,1600,SEK,19:30,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+saltsjobaden,18-hålsbanan,2026-07-04,1000,SEK,06:30,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-05,1000,SEK,07:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-06,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-07,900,SEK,13:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-08,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-09,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-10,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-11,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-12,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-14,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-15,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-16,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-17,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-18,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-19,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-20,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-21,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-22,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-23,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-24,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-25,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-26,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-27,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-28,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-29,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-30,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-07-31,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-01,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-02,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-03,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-04,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-05,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-06,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-07,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-08,1000,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-09,1000,SEK,12:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-10,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-11,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-12,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-13,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-14,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-15,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-16,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-17,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-18,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-19,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-20,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-21,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-22,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-23,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-24,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-25,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-26,900,SEK,09:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-27,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-28,900,SEK,10:50,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-29,1000,SEK,17:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-30,1000,SEK,06:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-08-31,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+saltsjobaden,18-hålsbanan,2026-09-01,900,SEK,05:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-04,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-05,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-06,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-07,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-08,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-09,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-10,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-11,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-12,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-13,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-14,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-15,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-16,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-17,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-18,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-19,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-20,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-21,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-22,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-23,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-24,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-25,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-26,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-27,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-28,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-29,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-30,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-07-31,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-01,800,SEK,17:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-02,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-03,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-04,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-05,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-06,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-07,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-08,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-09,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-10,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-11,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-12,650,SEK,16:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-13,650,SEK,13:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-14,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-15,800,SEK,15:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-16,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-17,650,SEK,12:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-18,650,SEK,14:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-19,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-20,650,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-21,650,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-22,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-23,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-24,650,SEK,12:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-25,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-26,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-27,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-28,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-29,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-30,800,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-08-31,650,SEK,12:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+sigtuna,SiGK 18-hålsbanan,2026-09-01,650,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-05,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-06,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-07,1150,SEK,11:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-08,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-09,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-10,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-11,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-12,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-13,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-17,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-18,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-19,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-20,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-21,1150,SEK,11:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-22,1150,SEK,08:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-23,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-24,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-25,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-26,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-27,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-28,1150,SEK,11:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-07-29,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-01,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-02,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-03,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-04,1150,SEK,11:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-05,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-06,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-07,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-08,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-09,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-10,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-11,1150,SEK,11:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-12,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-13,1150,SEK,14:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-14,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-16,1300,SEK,19:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-17,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-18,1150,SEK,18:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-19,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-20,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-21,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-22,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-23,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-24,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-25,1150,SEK,11:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-26,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-27,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-28,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-29,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-30,1300,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-08-31,1150,SEK,06:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+stockholms-gk,Kevingebanan,2026-09-01,1150,SEK,11:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+tyreso,18-hålsbanan,2026-07-04,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-05,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-06,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-07,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-08,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-09,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-10,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-11,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-12,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-13,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-14,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-15,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-16,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-17,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-18,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-19,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-20,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-21,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-22,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-23,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-24,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-25,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-26,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-27,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-28,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-29,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-30,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-07-31,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-01,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-02,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-03,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-04,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-05,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-06,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-07,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-08,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-09,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-10,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-11,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-12,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-13,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-14,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-15,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-16,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-17,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-18,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-19,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-20,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-21,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-24,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-25,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-26,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-27,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-28,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-29,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-30,550,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-08-31,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+tyreso,18-hålsbanan,2026-09-01,440,SEK,20:50,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-04,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-05,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-06,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-07,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-08,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-09,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-10,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-11,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-12,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-13,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-14,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-15,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-16,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-17,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-18,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-19,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-21,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-22,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-23,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-24,1995,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-07-26,2195,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-01,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-02,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-03,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-04,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-05,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-06,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-07,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-08,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-09,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-10,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-11,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-12,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-13,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-14,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-15,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-16,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-17,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-18,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-19,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-20,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-21,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-22,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-23,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-25,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-26,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-27,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-28,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-30,2795,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-08-31,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+ullna,Ullna Golf & Country Club,2026-09-01,2595,SEK,19:00,18,https://mingolf.golf.se/bokning/#/,Fetched from Min Golf booking validation for tee times after 17:00
+vidbynas,Vidbynäs North Course,2026-07-04,925,SEK,06:25,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-05,925,SEK,06:25,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-06,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-07,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-08,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-09,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-10,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-11,925,SEK,19:15,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-12,925,SEK,06:35,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-13,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-14,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-15,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-16,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-17,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-18,925,SEK,06:25,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-19,925,SEK,06:25,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-20,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-21,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-22,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-23,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-24,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-25,925,SEK,06:25,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-26,925,SEK,06:35,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-27,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-28,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-29,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-30,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-07-31,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-01,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-02,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-03,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-04,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-05,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-06,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-07,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-08,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-10,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-11,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-12,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-13,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-14,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-15,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-16,925,SEK,07:15,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-17,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-18,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-19,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-20,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-21,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-22,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-23,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-24,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-26,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-27,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-28,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-29,925,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-30,925,SEK,07:15,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-08-31,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+vidbynas,Vidbynäs North Course,2026-09-01,675,SEK,07:05,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-04,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-05,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-06,740,SEK,14:30,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-07,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-08,740,SEK,14:50,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-09,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-10,970,SEK,14:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-11,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-12,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-13,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-14,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-15,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-16,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-17,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-18,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-19,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-20,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-21,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-22,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-23,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-24,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-25,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-26,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-27,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-28,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-29,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-30,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-07-31,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-01,970,SEK,18:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-02,970,SEK,10:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-03,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-04,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-05,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-06,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-07,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-08,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-09,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-10,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-11,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-12,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-13,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-14,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-15,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-16,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-17,740,SEK,13:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-18,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-19,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-20,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-21,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-22,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-23,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-24,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-25,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-26,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-27,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-28,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-29,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-30,970,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-08-31,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wasby,John Deerebanan,2026-09-01,740,SEK,00:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-04,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-05,500,SEK,16:20,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-06,500,SEK,16:50,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-07,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-08,500,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-09,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-10,500,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-11,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-12,500,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-13,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-14,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-15,500,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-16,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-17,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-18,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-19,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-20,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-21,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-22,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-23,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-24,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-25,500,SEK,18:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-26,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-27,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-28,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-29,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-30,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-07-31,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-01,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-02,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-03,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-04,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-05,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-06,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-07,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-08,500,SEK,17:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-09,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-10,500,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-11,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-12,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-13,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-14,500,SEK,19:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-15,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-16,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-17,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-18,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-19,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-20,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-21,500,SEK,18:40,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-22,500,SEK,18:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-23,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-24,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-25,500,SEK,16:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-26,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-27,500,SEK,19:10,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-28,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-29,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-30,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-08-31,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API
+wermdo,18-hålsbanan,2026-09-01,500,SEK,16:00,18,https://mingolf.golf.se/bokning/#/,Fetched from authenticated Min Golf booking API

@@ -1,0 +1,20 @@
+{
+  "courses": [
+    { "course_id": "ullna", "search": "Ullna Golf & Country Club" },
+    { "course_id": "kungliga-drottningholm", "search": "Kungliga Drottningholms Golfklubb", "minGolfName": "Kungl. Drottningholms Golfklubb" },
+    { "course_id": "djursholm", "search": "Djursholms Golfklubb" },
+    { "course_id": "fagelbro", "search": "Fågelbro Golf & Country Club" },
+    { "course_id": "stockholms-gk", "search": "Stockholms Golfklubb" },
+    { "course_id": "haninge", "search": "Haninge Golfklubb" },
+    { "course_id": "saltsjobaden", "search": "Saltsjöbadens Golfklubb" },
+    { "course_id": "osteraaker", "search": "Österåkers Golfklubb" },
+    { "course_id": "sigtuna", "search": "Sigtuna Golfklubb" },
+    { "course_id": "vidbynas", "search": "Vidbynäs Golf" },
+    { "course_id": "arninge", "search": "Arninge Golfklubb" },
+    { "course_id": "wasby", "search": "Wäsby Golfklubb", "courseName": "John Deerebanan" },
+    { "course_id": "lidingo", "search": "Lidingö Golfklubb" },
+    { "course_id": "tyreso", "search": "Tyresö Golfklubb" },
+    { "course_id": "wermdo", "search": "Wermdö Golf & Country Club" },
+    { "course_id": "botkyrka", "search": "Botkyrka Golfklubb" }
+  ]
+}

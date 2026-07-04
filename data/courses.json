@@ -1,0 +1,154 @@
+{
+  "source": {
+    "title": "Stockholm's best golf courses",
+    "url": "https://thatsup.co.uk/stockholm/guide/stockholm-s-best-golf-courses/",
+    "note": "Seeded from the requested That's up guide. Course price feeds are separate because most live tee-time prices are published behind booking systems."
+  },
+  "currency": "SEK",
+  "courses": [
+    {
+      "id": "ullna",
+      "name": "Ullna Golf & Country Club",
+      "area": "Åkersberga",
+      "website": "https://ullnagolf.se/",
+      "bookingUrl": "https://ullnagolf.se/",
+      "rank": 1,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "kungliga-drottningholm",
+      "name": "Kungliga Drottningholms Golfklubb",
+      "area": "Drottningholm",
+      "website": "https://www.kdgk.se/",
+      "bookingUrl": "https://www.kdgk.se/",
+      "rank": 2,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "djursholm",
+      "name": "Djursholms Golfklubb",
+      "area": "Djursholm",
+      "website": "https://djursholmsgk.se/",
+      "bookingUrl": "https://djursholmsgk.se/",
+      "rank": 3,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "fagelbro",
+      "name": "Fågelbro Golf & Country Club",
+      "area": "Värmdö",
+      "website": "https://www.fagelbrogolf.se/",
+      "bookingUrl": "https://www.fagelbrogolf.se/",
+      "rank": 4,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "stockholms-gk",
+      "name": "Stockholms Golfklubb",
+      "area": "Danderyd",
+      "website": "https://www.stockholmsgk.se/",
+      "bookingUrl": "https://www.stockholmsgk.se/",
+      "rank": 5,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "haninge",
+      "name": "Haninge Golfklubb",
+      "area": "Västerhaninge",
+      "website": "https://www.haningegk.se/",
+      "bookingUrl": "https://www.haningegk.se/",
+      "rank": 6,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "saltsjobaden",
+      "name": "Saltsjöbadens Golfklubb",
+      "area": "Saltsjöbaden",
+      "website": "https://www.saltsjobadengolf.se/",
+      "bookingUrl": "https://www.saltsjobadengolf.se/",
+      "rank": 7,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "osteraaker",
+      "name": "Österåkers Golfklubb",
+      "area": "Åkersberga",
+      "website": "https://www.ostgk.se/",
+      "bookingUrl": "https://www.ostgk.se/",
+      "rank": 8,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "sigtuna",
+      "name": "Sigtuna Golfklubb",
+      "area": "Sigtuna",
+      "website": "https://mingolf.golf.se/bokning/#/",
+      "bookingUrl": "https://mingolf.golf.se/bokning/#/",
+      "rank": 9,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "vidbynas",
+      "name": "Vidbynäs Golf",
+      "area": "Nykvarn",
+      "website": "https://www.vidbynasgolf.se/",
+      "bookingUrl": "https://www.vidbynasgolf.se/",
+      "rank": 10,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "arninge",
+      "name": "Arninge Golfklubb",
+      "area": "Täby",
+      "website": "https://www.arningegk.se/",
+      "bookingUrl": "https://www.arningegk.se/",
+      "rank": 11,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "wasby",
+      "name": "Wäsby Golfklubb",
+      "area": "Upplands Väsby",
+      "website": "https://mingolf.golf.se/bokning/#/",
+      "bookingUrl": "https://mingolf.golf.se/bokning/#/",
+      "rank": 12,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "lidingo",
+      "name": "Lidingö Golfklubb",
+      "area": "Lidingö",
+      "website": "https://www.lidingogk.se/",
+      "bookingUrl": "https://www.lidingogk.se/",
+      "rank": 13,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "tyreso",
+      "name": "Tyresö Golfklubb",
+      "area": "Tyresö",
+      "website": "https://www.tyresogolf.se/",
+      "bookingUrl": "https://www.tyresogolf.se/",
+      "rank": 14,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "wermdo",
+      "name": "Wermdo Golf & Country Club",
+      "area": "Värmdö",
+      "website": "https://www.wermdogolf.se/",
+      "bookingUrl": "https://www.wermdogolf.se/",
+      "rank": 15,
+      "feedStatus": "manual"
+    },
+    {
+      "id": "botkyrka",
+      "name": "Botkyrka Golfklubb",
+      "area": "Botkyrka",
+      "website": "https://www.botkyrkagk.se/",
+      "bookingUrl": "https://www.botkyrkagk.se/",
+      "rank": 16,
+      "feedStatus": "manual"
+    }
+  ]
+}
