@@ -88,7 +88,7 @@ function renderRows(courses) {
   tbody.innerHTML = "";
   if (!courses.length) {
     const row = document.createElement("tr");
-    row.innerHTML = `<td colspan="8" class="missing">${state.loadError ? "Price data is unavailable." : "No courses found."}</td>`;
+    row.innerHTML = `<td colspan="8" class="missing emptyState">${state.loadError ? "Price data is unavailable." : "No courses found."}</td>`;
     tbody.appendChild(row);
     return;
   }
@@ -104,23 +104,23 @@ function renderRows(courses) {
     const selectedCourseName = course.cheapest?.course_name || course.firstAvailable?.course_name || "";
 
     row.innerHTML = `
-      <td>
+      <td data-label="Course">
         <div class="courseName">
           <strong>${escapeHtml(course.name)}</strong>
           <span>${escapeHtml(selectedCourseName || `Guide #${course.rank}`)}</span>
         </div>
       </td>
-      <td>${escapeHtml(course.area || "-")}</td>
-      <td>${priceHtml}</td>
-      <td>${course.cheapest ? formatDate(parseLocalDate(course.cheapest.date)) : course.firstAvailable ? formatDate(parseLocalDate(course.firstAvailable.date)) : "-"}</td>
-      <td>${escapeHtml(course.cheapest?.tee_time || course.firstAvailable?.tee_time || "-")}</td>
-      <td>${escapeHtml(course.cheapest?.holes || course.firstAvailable?.holes || "-")}</td>
-      <td>
+      <td data-label="Area">${escapeHtml(course.area || "-")}</td>
+      <td data-label="Cheapest">${priceHtml}</td>
+      <td data-label="Date">${course.cheapest ? formatDate(parseLocalDate(course.cheapest.date)) : course.firstAvailable ? formatDate(parseLocalDate(course.firstAvailable.date)) : "-"}</td>
+      <td data-label="Time">${escapeHtml(course.cheapest?.tee_time || course.firstAvailable?.tee_time || "-")}</td>
+      <td data-label="Holes">${escapeHtml(course.cheapest?.holes || course.firstAvailable?.holes || "-")}</td>
+      <td data-label="Source">
         <div class="sourceLinks">
           <a href="${escapeAttribute(sourceUrl)}" target="_blank" rel="noreferrer">Open</a>
         </div>
       </td>
-      <td>${renderHeat(course.availabilityRows)}</td>
+      <td data-label="60-day view">${renderHeat(course.availabilityRows)}</td>
     `;
     tbody.appendChild(row);
   });

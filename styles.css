@@ -58,16 +58,16 @@ body {
 
 .eyebrow {
   margin: 0 0 10px;
+  max-width: 760px;
   font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0;
-  text-transform: uppercase;
 }
 
 h1 {
   max-width: 760px;
   margin: 0;
-  font-size: clamp(2.1rem, 5vw, 4.25rem);
+  font-size: 4.1rem;
   line-height: 0.98;
   letter-spacing: 0;
 }
@@ -273,30 +273,218 @@ a:hover {
 
 @media (max-width: 840px) {
   .hero {
-    min-height: 360px;
+    min-height: 340px;
   }
 
   .stats {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .stats {
     gap: 0;
   }
+
+  h1 {
+    font-size: 3rem;
+  }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 700px) {
+  .hero {
+    min-height: 320px;
+  }
+
+  .hero__shade {
+    background:
+      linear-gradient(90deg, rgba(14, 25, 22, 0.86), rgba(14, 25, 22, 0.52)),
+      linear-gradient(0deg, rgba(246, 244, 239, 1), rgba(246, 244, 239, 0) 38%);
+  }
+
   .hero__content,
   .shell {
     width: min(100% - 22px, 1180px);
   }
 
-  h1 {
-    font-size: 2.35rem;
+  .hero__content {
+    margin-bottom: 34px;
   }
 
-  th,
+  h1 {
+    max-width: 340px;
+    font-size: 2.35rem;
+    line-height: 1;
+  }
+
+  .eyebrow {
+    max-width: 330px;
+    font-size: 0.76rem;
+  }
+
+  .hero__meta {
+    gap: 8px;
+    margin-top: 18px;
+  }
+
+  .hero__meta span {
+    min-height: 28px;
+    padding: 5px 9px;
+    font-size: 0.78rem;
+  }
+
+  .shell {
+    margin-top: -18px;
+    margin-bottom: 34px;
+  }
+
+  .stats article {
+    padding: 14px;
+  }
+
+  .stat__label {
+    font-size: 0.68rem;
+  }
+
+  .stats strong {
+    margin-top: 6px;
+    font-size: 1.34rem;
+  }
+
+  .board {
+    overflow: visible;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+  }
+
+  .tableWrap {
+    overflow: visible;
+  }
+
+  table,
+  tbody,
+  tr,
   td {
+    display: block;
+    width: 100%;
+  }
+
+  table {
+    min-width: 0;
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tbody {
+    display: grid;
+    gap: 12px;
+  }
+
+  tbody tr {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px 14px;
+    padding: 14px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--panel);
+    box-shadow: 0 10px 24px rgba(23, 32, 29, 0.07);
+  }
+
+  td {
+    display: grid;
+    grid-template-columns: minmax(68px, 0.46fr) minmax(0, 1fr);
+    gap: 8px;
+    align-items: baseline;
+    min-width: 0;
+    padding: 0;
+    border-bottom: 0;
+    font-size: 0.9rem;
+  }
+
+  td::before {
+    content: attr(data-label);
+    color: var(--muted);
+    font-size: 0.68rem;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
+  td:first-child,
+  td:nth-child(3),
+  td:nth-child(8),
+  .emptyState {
+    grid-column: 1 / -1;
+  }
+
+  td:first-child {
+    display: block;
+    padding-bottom: 2px;
+  }
+
+  td:first-child::before,
+  .emptyState::before {
+    content: none;
+  }
+
+  td:nth-child(3) {
+    grid-template-columns: minmax(68px, 0.3fr) minmax(0, 1fr);
+    padding: 7px 0 2px;
+    border-top: 1px solid var(--line);
+  }
+
+  td:nth-child(8) {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 7px;
+    padding-top: 4px;
+  }
+
+  .courseName {
+    min-width: 0;
+  }
+
+  .courseName strong {
+    font-size: 1.05rem;
+  }
+
+  .price {
+    font-size: 1.32rem;
+  }
+
+  .sourceLinks {
+    justify-content: start;
+  }
+
+  .heat {
+    grid-template-columns: repeat(15, minmax(0, 1fr));
+    gap: 4px;
+    width: 100%;
+  }
+
+  .heat span {
+    width: 100%;
+    height: 18px;
+  }
+}
+
+@media (max-width: 420px) {
+  h1 {
+    font-size: 2.08rem;
+  }
+
+  .stats article {
     padding: 12px;
+  }
+
+  tbody tr {
+    grid-template-columns: 1fr;
+  }
+
+  td {
+    grid-template-columns: minmax(70px, 0.38fr) minmax(0, 1fr);
   }
 }
